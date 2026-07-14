@@ -210,8 +210,4 @@ always-on container host instead.
 
 ## License
 
-Apache-2.0 — see [LICENSE](LICENSE).
-
----
-
-Built by [nirholas](https://x.com/nichxbt) · [three.ws](https://three.ws)
+All rights reserved. See [LICENSE](LICENSE).

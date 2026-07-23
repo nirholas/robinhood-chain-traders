@@ -1,7 +1,7 @@
 {
   "name": "hood-traders",
-  "version": "0.1.0",
-  "description": "A framework and runnable fleet of autonomous agents that trade Robinhood Chain (4663) memecoins and watch Stock Token premium/discount — real quotes, real risk caps, real signed swaps, live P&L dashboard.",
+  "version": "0.2.1",
+  "description": "A framework and runnable fleet of autonomous agents that trade Robinhood Chain (4663) memecoins and watch Stock Token premium/discount \u2014 real quotes, real risk caps, real signed swaps, live P&L dashboard.",
   "keywords": [
     "robinhood-chain",
     "trading-agent",
@@ -16,11 +16,11 @@
   "author": "nirholas (https://x.com/nichxbt)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nirholas/hood-traders.git"
+    "url": "git+https://github.com/nirholas/robinhood-chain-traders.git"
   },
-  "homepage": "https://nirholas.github.io/hood-traders/",
+  "homepage": "https://nirholas.github.io/robinhood-chain-traders/",
   "bugs": {
-    "url": "https://github.com/nirholas/hood-traders/issues"
+    "url": "https://github.com/nirholas/robinhood-chain-traders/issues"
   },
   "type": "module",
   "engines": {

@@ -15,7 +15,7 @@ swaps, hard risk caps, and a live decision-journal dashboard.
 > misconfigured risk cap. Start in paper mode. Use a wallet you can afford to lose. You are
 > responsible for every transaction this software signs on your behalf.
 
-Built on [`hoodchain`](../robinhood-chain-sdk) — the Robinhood Chain (chain ID 4663) TypeScript
+Built on [`hoodchain`](https://github.com/nirholas/robinhood-chain-sdk) — the Robinhood Chain (chain ID 4663) TypeScript
 SDK for Stock Tokens, Chainlink quotes, Uniswap v3 swaps, USDG, and launchpad watchers.
 `hoodkit`/`hood-js` (the wave-2 convenience wrappers) had not shipped at the time this package
 was built, so `hood-traders` talks to `hoodchain` directly — swapping in a wrapper later is a
@@ -43,8 +43,8 @@ Paper mode simulates fills against **live** market data (real Chainlink prices, 
 quotes) — it is a real simulation, not fake data. No wallet, no key, no config needed.
 
 ```bash
-git clone https://github.com/nirholas/hood-traders.git
-cd hood-traders
+git clone https://github.com/nirholas/robinhood-chain-traders.git
+cd robinhood-chain-traders
 npm install
 npm run build
 npm run fleet

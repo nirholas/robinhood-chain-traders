@@ -208,3 +208,7 @@ always-on container host instead.
 ## License
 
 All rights reserved. See [LICENSE](LICENSE).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/robinhood-chain-traders&type=Date)](https://www.star-history.com/#nirholas/robinhood-chain-traders&Date)

@@ -1,0 +1,28 @@
+# robinhood-chain-traders
+
+> A framework and runnable fleet of autonomous agents that trade Robinhood Chain memecoins and watch Stock Token premium/discount: real quotes, real risk caps, live P&L.
+
+robinhood-chain-traders is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/robinhood-chain-traders/blob/HEAD/README.md): install, usage and reference
+- [What it does](https://github.com/nirholas/robinhood-chain-traders/blob/HEAD/README.md#what-it-does)
+- [Quickstart: paper mode in 5 minutes](https://github.com/nirholas/robinhood-chain-traders/blob/HEAD/README.md#quickstart-paper-mode-in-5-minutes)
+- [Going live](https://github.com/nirholas/robinhood-chain-traders/blob/HEAD/README.md#going-live)
+- [Architecture](https://github.com/nirholas/robinhood-chain-traders/blob/HEAD/README.md#architecture)
+- [Strategies](https://github.com/nirholas/robinhood-chain-traders/blob/HEAD/README.md#strategies)
+- [Configuration](https://github.com/nirholas/robinhood-chain-traders/blob/HEAD/README.md#configuration)
+- [Kill switch](https://github.com/nirholas/robinhood-chain-traders/blob/HEAD/README.md#kill-switch)
+- [Development](https://github.com/nirholas/robinhood-chain-traders/blob/HEAD/README.md#development)
+- [AGENTS.md](https://github.com/nirholas/robinhood-chain-traders/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/robinhood-chain-traders/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/robinhood-chain-traders)
+- [Issues](https://github.com/nirholas/robinhood-chain-traders/issues)
+- [Discussions](https://github.com/nirholas/robinhood-chain-traders/discussions)
+- [Homepage](https://nirholas.github.io/robinhood-chain-traders/)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)

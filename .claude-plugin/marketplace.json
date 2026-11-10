@@ -1,0 +1,22 @@
+{
+  "name": "robinhood-chain-traders",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "Run a paper-mode fleet of autonomous Robinhood Chain trading agents with risk caps, a kill switch and a live dashboard.",
+  "plugins": [
+    {
+      "name": "hood-traders",
+      "source": "./plugins/hood-traders",
+      "description": "Run a paper-mode fleet of autonomous Robinhood Chain trading agents with risk caps, a kill switch and a live dashboard.",
+      "category": "finance",
+      "tags": [
+        "robinhood-chain",
+        "trading-agent",
+        "memecoin",
+        "stock-tokens",
+        "risk-management"
+      ]
+    }
+  ]
+}

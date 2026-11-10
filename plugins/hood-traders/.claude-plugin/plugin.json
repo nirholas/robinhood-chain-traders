@@ -1,0 +1,17 @@
+{
+  "name": "hood-traders",
+  "version": "0.2.1",
+  "description": "Run a paper-mode fleet of autonomous Robinhood Chain trading agents with risk caps, a kill switch and a live dashboard.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/robinhood-chain-traders",
+  "homepage": "https://nirholas.github.io/robinhood-chain-traders/",
+  "keywords": [
+    "robinhood-chain",
+    "trading-agent",
+    "memecoin",
+    "stock-tokens",
+    "risk-management"
+  ]
+}
